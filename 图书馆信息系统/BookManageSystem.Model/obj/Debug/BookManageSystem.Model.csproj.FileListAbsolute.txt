@@ -1,0 +1,20 @@
+E:\课程设计\图书信息管理系统\BookManageSystem.Model\bin\Debug\BookManageSystem.Model.dll
+E:\课程设计\图书信息管理系统\BookManageSystem.Model\bin\Debug\BookManageSystem.Model.pdb
+E:\课程设计\图书信息管理系统\BookManageSystem.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\课程设计\图书信息管理系统\BookManageSystem.Model\obj\Debug\BookManageSystem.Model.dll
+E:\课程设计\图书信息管理系统\BookManageSystem.Model\obj\Debug\BookManageSystem.Model.pdb
+E:\课程设计\图书管理信息系统\BookManageSystem.Model\bin\Debug\BookManageSystem.Model.dll
+E:\课程设计\图书管理信息系统\BookManageSystem.Model\bin\Debug\BookManageSystem.Model.pdb
+E:\课程设计\图书管理信息系统\BookManageSystem.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\课程设计\图书管理信息系统\BookManageSystem.Model\obj\Debug\BookManageSystem.Model.dll
+E:\课程设计\图书管理信息系统\BookManageSystem.Model\obj\Debug\BookManageSystem.Model.pdb
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.Model\bin\Debug\BookManageSystem.Model.dll
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.Model\bin\Debug\BookManageSystem.Model.pdb
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.Model\obj\Debug\BookManageSystem.Model.dll
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.Model\obj\Debug\BookManageSystem.Model.pdb
+D:\tmp\test\Chapter15\BookManageSystem.Model\bin\Debug\BookManageSystem.Model.dll
+D:\tmp\test\Chapter15\BookManageSystem.Model\bin\Debug\BookManageSystem.Model.pdb
+D:\tmp\test\Chapter15\BookManageSystem.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\tmp\test\Chapter15\BookManageSystem.Model\obj\Debug\BookManageSystem.Model.dll
+D:\tmp\test\Chapter15\BookManageSystem.Model\obj\Debug\BookManageSystem.Model.pdb

@@ -1,0 +1,171 @@
+E:\课程设计\图书信息管理系统\BookManageSystem\bin\Debug\BookManageSystem.exe
+E:\课程设计\图书信息管理系统\BookManageSystem\bin\Debug\BookManageSystem.pdb
+E:\课程设计\图书信息管理系统\BookManageSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\课程设计\图书信息管理系统\BookManageSystem\obj\Debug\BookManageSystem.frmMain.resources
+E:\课程设计\图书信息管理系统\BookManageSystem\obj\Debug\BookManageSystem.Properties.Resources.resources
+E:\课程设计\图书信息管理系统\BookManageSystem\obj\Debug\BookManageSystem.csproj.GenerateResource.Cache
+E:\课程设计\图书信息管理系统\BookManageSystem\obj\Debug\BookManageSystem.exe
+E:\课程设计\图书信息管理系统\BookManageSystem\obj\Debug\BookManageSystem.pdb
+E:\课程设计\图书信息管理系统\BookManageSystem\obj\Debug\BookManageSystem.frmManagePannel.resources
+E:\课程设计\图书信息管理系统\BookManageSystem\obj\Debug\BookManageSystem.frmBookInfoManage.resources
+E:\课程设计\图书信息管理系统\BookManageSystem\obj\Debug\BookManageSystem.frmBookSortManage.resources
+E:\课程设计\图书信息管理系统\BookManageSystem\obj\Debug\BookManageSystem.FormStatus.resources
+E:\课程设计\图书信息管理系统\BookManageSystem\obj\Debug\BookManageSystem.frmLogin.resources
+E:\课程设计\图书信息管理系统\BookManageSystem\bin\Debug\BookManageSystem.BLL.dll
+E:\课程设计\图书信息管理系统\BookManageSystem\bin\Debug\BookManageSystem.Common.dll
+E:\课程设计\图书信息管理系统\BookManageSystem\bin\Debug\BookManageSystem.DAL.dll
+E:\课程设计\图书信息管理系统\BookManageSystem\bin\Debug\BookManageSystem.Model.dll
+E:\课程设计\图书信息管理系统\BookManageSystem\bin\Debug\BookManageSystem.DAL.pdb
+E:\课程设计\图书信息管理系统\BookManageSystem\bin\Debug\BookManageSystem.Common.pdb
+E:\课程设计\图书信息管理系统\BookManageSystem\bin\Debug\BookManageSystem.Model.pdb
+E:\课程设计\图书信息管理系统\BookManageSystem\bin\Debug\BookManageSystem.BLL.pdb
+E:\课程设计\图书信息管理系统\BookManageSystem\obj\Debug\BookManageSystem.frmBookInfoAddOrUpdate.resources
+E:\课程设计\图书信息管理系统\BookManageSystem\obj\Debug\BookManageSystem.frmReaderManage.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.exe
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.pdb
+E:\课程设计\图书管理信息系统\BookManageSystem\bin\Debug\BookManageSystem.exe
+E:\课程设计\图书管理信息系统\BookManageSystem\bin\Debug\BookManageSystem.pdb
+E:\课程设计\图书管理信息系统\BookManageSystem\bin\Debug\BookManageSystem.BLL.dll
+E:\课程设计\图书管理信息系统\BookManageSystem\bin\Debug\BookManageSystem.Common.dll
+E:\课程设计\图书管理信息系统\BookManageSystem\bin\Debug\BookManageSystem.Model.dll
+E:\课程设计\图书管理信息系统\BookManageSystem\bin\Debug\BookManageSystem.DAL.dll
+E:\课程设计\图书管理信息系统\BookManageSystem\bin\Debug\BookManageSystem.DAL.pdb
+E:\课程设计\图书管理信息系统\BookManageSystem\bin\Debug\BookManageSystem.Common.pdb
+E:\课程设计\图书管理信息系统\BookManageSystem\bin\Debug\BookManageSystem.Model.pdb
+E:\课程设计\图书管理信息系统\BookManageSystem\bin\Debug\BookManageSystem.BLL.pdb
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.FormStatus.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.frmBookInfoAddOrUpdate.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.frmBookInfoManage.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.frmBookSortManage.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.frmLogin.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.frmMain.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.frmManagePannel.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.frmReaderManage.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.Properties.Resources.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.csproj.GenerateResource.Cache
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.frmReaderAddOrUpdate.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.frmBorrowReturnMana.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.frmSystemInfoSearch.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.frmUserPurviewManage.resources
+E:\课程设计\图书管理信息系统\BookManageSystem\obj\Debug\BookManageSystem.frmUserAddUpdate.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.exe
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.pdb
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.exe
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.pdb
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.BLL.dll
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Common.dll
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Model.dll
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.DAL.dll
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Common.pdb
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Model.pdb
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.FormStatus.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBookInfoAddOrUpdate.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBookInfoManage.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBookSortManage.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBorrowReturnMana.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmLogin.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmMain.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmManagePannel.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmReaderAddOrUpdate.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmReaderManage.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmSystemInfoSearch.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmUserAddUpdate.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmUserPurviewManage.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\bin\Debug\App.config
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.exe.config
+D:\tmp\test\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.exe.config
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.exe
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.pdb
+D:\tmp\test\Chapter15\BookManageSystem\bin\Debug\App.config
+D:\tmp\test\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.exe
+D:\tmp\test\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.pdb
+D:\tmp\test\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.BLL.dll
+D:\tmp\test\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Common.dll
+D:\tmp\test\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Model.dll
+D:\tmp\test\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.DAL.dll
+D:\tmp\test\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.DAL.pdb
+D:\tmp\test\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Common.pdb
+D:\tmp\test\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Model.pdb
+D:\tmp\test\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.BLL.pdb
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.FormStatus.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBookInfoAddOrUpdate.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBookInfoManage.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBookSortManage.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBorrowReturnMana.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmLogin.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmMain.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmManagePannel.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmReaderAddOrUpdate.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmReaderManage.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmSystemInfoSearch.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmUserAddUpdate.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmUserPurviewManage.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.Properties.Resources.resources
+D:\tmp\test\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.csproj.GenerateResource.Cache
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.exe.config
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.exe
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.pdb
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\bin\Debug\App.config
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.exe
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.pdb
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.BLL.dll
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Common.dll
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Model.dll
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.DAL.dll
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.BLL.pdb
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Common.pdb
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Model.pdb
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.DAL.pdb
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.csprojResolveAssemblyReference.cache
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.FormStatus.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBookInfoAddOrUpdate.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBookInfoManage.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBookSortManage.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBorrowReturnMana.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmLogin.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmMain.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmManagePannel.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmReaderAddOrUpdate.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmReaderManage.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmSystemInfoSearch.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmUserAddUpdate.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmUserPurviewManage.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.Properties.Resources.resources
+D:\文档\Visual Studio 2013\Projects\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.csproj.GenerateResource.Cache
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.exe.config
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.exe
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.pdb
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\bin\Debug\App.config
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.exe
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.pdb
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.BLL.dll
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Common.dll
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Model.dll
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.DAL.dll
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.BLL.pdb
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Common.pdb
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.Model.pdb
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\bin\Debug\BookManageSystem.DAL.pdb
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.csprojResolveAssemblyReference.cache
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.FormStatus.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBookInfoAddOrUpdate.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBookInfoManage.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBookSortManage.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmBorrowReturnMana.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmLogin.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmMain.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmManagePannel.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmReaderAddOrUpdate.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmReaderManage.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmSystemInfoSearch.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmUserAddUpdate.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.frmUserPurviewManage.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.Properties.Resources.resources
+C:\Users\LENOV\Desktop\Chapter15\BookManageSystem\obj\Debug\BookManageSystem.csproj.GenerateResource.Cache

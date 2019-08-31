@@ -1,0 +1,36 @@
+E:\课程设计\图书信息管理系统\BookManageSystem.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\课程设计\图书信息管理系统\BookManageSystem.DAL\bin\Debug\BookManageSystem.DAL.dll
+E:\课程设计\图书信息管理系统\BookManageSystem.DAL\bin\Debug\BookManageSystem.DAL.pdb
+E:\课程设计\图书信息管理系统\BookManageSystem.DAL\bin\Debug\BookManageSystem.Common.dll
+E:\课程设计\图书信息管理系统\BookManageSystem.DAL\bin\Debug\BookManageSystem.Model.dll
+E:\课程设计\图书信息管理系统\BookManageSystem.DAL\bin\Debug\BookManageSystem.Common.pdb
+E:\课程设计\图书信息管理系统\BookManageSystem.DAL\bin\Debug\BookManageSystem.Model.pdb
+E:\课程设计\图书信息管理系统\BookManageSystem.DAL\obj\Debug\BookManageSystem.DAL.dll
+E:\课程设计\图书信息管理系统\BookManageSystem.DAL\obj\Debug\BookManageSystem.DAL.pdb
+E:\课程设计\图书管理信息系统\BookManageSystem.DAL\bin\Debug\BookManageSystem.DAL.dll
+E:\课程设计\图书管理信息系统\BookManageSystem.DAL\bin\Debug\BookManageSystem.DAL.pdb
+E:\课程设计\图书管理信息系统\BookManageSystem.DAL\bin\Debug\BookManageSystem.Common.dll
+E:\课程设计\图书管理信息系统\BookManageSystem.DAL\bin\Debug\BookManageSystem.Model.dll
+E:\课程设计\图书管理信息系统\BookManageSystem.DAL\bin\Debug\BookManageSystem.Common.pdb
+E:\课程设计\图书管理信息系统\BookManageSystem.DAL\bin\Debug\BookManageSystem.Model.pdb
+E:\课程设计\图书管理信息系统\BookManageSystem.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\课程设计\图书管理信息系统\BookManageSystem.DAL\obj\Debug\BookManageSystem.DAL.dll
+E:\课程设计\图书管理信息系统\BookManageSystem.DAL\obj\Debug\BookManageSystem.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.DAL\bin\Debug\BookManageSystem.DAL.dll
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.DAL\bin\Debug\BookManageSystem.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.DAL\bin\Debug\BookManageSystem.Common.dll
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.DAL\bin\Debug\BookManageSystem.Model.dll
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.DAL\bin\Debug\BookManageSystem.Common.pdb
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.DAL\bin\Debug\BookManageSystem.Model.pdb
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.DAL\obj\Debug\BookManageSystem.DAL.dll
+C:\Documents and Settings\Administrator\桌面\Chapter15\Chapter15\BookManageSystem.DAL\obj\Debug\BookManageSystem.DAL.pdb
+D:\tmp\test\Chapter15\BookManageSystem.DAL\bin\Debug\BookManageSystem.DAL.dll
+D:\tmp\test\Chapter15\BookManageSystem.DAL\bin\Debug\BookManageSystem.DAL.pdb
+D:\tmp\test\Chapter15\BookManageSystem.DAL\bin\Debug\BookManageSystem.Common.dll
+D:\tmp\test\Chapter15\BookManageSystem.DAL\bin\Debug\BookManageSystem.Model.dll
+D:\tmp\test\Chapter15\BookManageSystem.DAL\bin\Debug\BookManageSystem.Common.pdb
+D:\tmp\test\Chapter15\BookManageSystem.DAL\bin\Debug\BookManageSystem.Model.pdb
+D:\tmp\test\Chapter15\BookManageSystem.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\tmp\test\Chapter15\BookManageSystem.DAL\obj\Debug\BookManageSystem.DAL.dll
+D:\tmp\test\Chapter15\BookManageSystem.DAL\obj\Debug\BookManageSystem.DAL.pdb
